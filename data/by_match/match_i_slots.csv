@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+i,0,Tiny,core_r
+i,1,Slardar,mid_r
+i,2,Centaur,hard_r
+i,3,Windrunner,h_sup_r
+i,4,Oracle,sup_r
+i,5,Sven,core_d
+i,6,DarkSeer,hard_d
+i,7,EmberSpirit,mid_d
+i,8,Pudge,h_sup_d
+i,9,Chen,sup_d

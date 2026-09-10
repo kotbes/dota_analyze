@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+g,0,DoomBringer,core_r
+g,1,Disruptor,sup_r
+g,2,Pangolier,hard_r
+g,3,Tusk,h_sup_r
+g,4,Lina,mid_d
+g,5,Ringmaster,sup_d
+g,6,DarkSeer,hard_d
+g,7,Tiny,mid_d
+g,8,DarkWillow,h_sup_d
+g,9,Medusa,core_d

@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+e,0,Ringmaster,sup_r
+e,1,DarkSeer,hard_r
+e,2,Batrider,mid_r
+e,3,DarkWillow,h_sup_r
+e,4,Tiny,core_r
+e,5,Sven,core_d
+e,6,Kunkka,mid_d
+e,7,AbyssalUnderlord,hard_d
+e,8,Furion,h_sup_d
+e,9,Jakiro,sup_d

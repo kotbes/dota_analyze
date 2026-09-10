@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+f,0,Tiny,core_r
+f,1,Obsidian_Destroyer,mid_r
+f,2,Tidehunter,hard_r
+f,3,Shadow_Demon,h_sup_r
+f,4,Furion,sup_r
+f,5,Terrorblade,core_d
+f,6,DarkSeer,hard_d
+f,7,Kunkka,mid_d
+f,8,ChaosKnight,h_sup_d
+f,9,Oracle,sup_d

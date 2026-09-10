@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+c,0,Morphling,core_r
+c,1,SandKing,hard_r
+c,2,Tiny,mid_r
+c,3,Tinker,h_sup_r
+c,4,Mirana,sup_r
+c,5,TemplarAssassin,core_d
+c,6,Silencer,sup_d
+c,7,StormSpirit,mid_d
+c,8,BountyHunter,h_sup_d
+c,9,Abaddon,hard_d

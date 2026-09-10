@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+a,0,Jakiro,sup_r
+a,1,Enigma,hard_r
+a,2,Kunkka,mid_r
+a,3,Tusk,hard_r
+a,4,Luna,core_r
+a,5,Medusa,hard_d
+a,6,Tinker,sup_d
+a,7,AbyssalUnderlord,core_d
+a,8,TemplarAssassin,mid_d
+a,9,ShadowShaman,h_sup_d

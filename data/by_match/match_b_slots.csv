@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+b,0,Tinker,sup_r
+b,1,DarkSeer,hard_r
+b,2,PrimalBeast,mid_r
+b,3,Tusk,h_sup_r
+b,4,Furion,core_r
+b,5,TrollWarlord,core_d
+b,6,Silencer,sup_d
+b,7,Pangolier,mid_d
+b,8,Weaver,h_sup_d
+b,9,Beastmaster,hard_d

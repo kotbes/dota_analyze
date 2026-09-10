@@ -1,0 +1,11 @@
+match_id,slot,hero_name,role
+h,0,Terrorblade,core_r
+h,1,Sniper,mid_r
+h,2,Tidehunter,hard_r
+h,3,Windrunner,h_sup_r
+h,4,Oracle,sup_r
+h,5,Lina,core_d
+h,6,Brewmaster,hard_d
+h,7,Magnataur,mid_d
+h,8,ShadowShaman,h_sup_d
+h,9,Naga_Siren,sup_d
