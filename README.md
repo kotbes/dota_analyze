@@ -14,7 +14,7 @@
         ▼
 построчный JSON лог событий матча
         │  slot_hero.py            — какой герой на каком слоте
-        │  slots_by_match.py       — разбивка по матчам + роль героя (core/mid/support...), проставлялась вручную
+        │  slots_by_match.py       — разбивка по матчам + роль героя (core/mid/support...)
         ▼
 data/by_match/*.csv
         │  feature_extractor.py    — бьёт матч на 30-секундные интервалы, считает позиции,
